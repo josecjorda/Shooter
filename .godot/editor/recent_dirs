@@ -1,5 +1,8 @@
-res://scenes/player
-res://scenes/levels
-res://scenes
+res://scenes/houses
+res://scenes/enemies
+res://scenes/projectiles
 res://scenes/objects
+res://scenes/levels
+res://scenes/player
+res://scenes
 res://graphics/car
